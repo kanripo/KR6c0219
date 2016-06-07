@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:55.245863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:24
 #+TITLE: 聖八千頌般若波羅蜜多一百八名真實圓義陀羅尼經
 #+PROPERTY: CBETA_ID T08n0230
 #+PROPERTY: ID KR6c0219
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 230
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0219_T_001-0684c> 
 #+PROPERTY: JUAN 1
 ¶
-No.230¶
-
- 《聖八千頌般若波羅蜜多一百八¶
+No. 230¶
+《聖八千頌般若波羅蜜多一百八¶
 名真實圓義陀羅尼經》¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -26,9 +25,9 @@ No.230¶
 　善生諸佛為佛母，
 　無性自性我清淨，¶
 　佛為須菩提廣說，
-　如其所說今畧集。
+　如其所說今畧集。」
 #+END_VERSE
-」¶
+¶
 
 般若波羅蜜多有一百八名：一者最勝般若¶
 波羅蜜多，二、一切智，三、一切相智，四、實際，五、¶
